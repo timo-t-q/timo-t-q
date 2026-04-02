@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Timotej Tipary
+# 👋 Hey, I'm Timo
 
 ### 🛡️ Future Cybersecurity Specialist | 💻 Full-Stack Developer | 🤖 AI Tool Builder
 
