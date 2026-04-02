@@ -24,7 +24,7 @@ const currentProjects = {
     "GitHub OAuth Device Flow",
     "Custom skill system (coming soon)",
   ],
-  vision: "Best OpenCode alternative with everything-claude-code features"
+  vision: "Best OpenCode alternative with everything extra is added for you"
 };
 ```
 
@@ -32,7 +32,7 @@ const currentProjects = {
 - 🏗️ **Hand-of-Odin**: Building the ultimate Next.js AI coding assistant
 - 🏆 **Hackathon Prep**: Mastering Next.js + TypeScript + Tailwind + Supabase stack
 - 🔐 **Cybersecurity**: Learning offensive/defensive techniques via OverTheWire Bandit
-- 📱 **NetStudy**: Flutter app for my school's maturita exam prep (IST program)
+- 📱 **NetStudy**: Flutter app for my school
 
 ---
 
@@ -98,7 +98,7 @@ const currentProjects = {
 
 ```mermaid
 graph LR
-    A[🎓 2nd Year IST] --> B[🛡️ BSc IT & Cyber - AAU Esbjerg]
+    A[🎓 3nd Year IST] --> B[🛡️ BSc IT & Cyber - AAU Esbjerg]
     B --> C[🔐 MSc Cyber Security - AAU Aalborg]
     C --> D[🇳🇴 Cybersecurity Career in Norway]
     D --> E[📚 Optional PhD - NTNU/AAU]
