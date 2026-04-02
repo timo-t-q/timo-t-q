@@ -1,27 +1,197 @@
-# 💫 About Me:
-## 👋 About Me<br><br>🔭 I'm currently working on **Hand-of-Odin** - a Node.js CLI AI coding assistant optimized for Next.js development, and preparing for hackathons with the Next.js + TypeScript + Tailwind CSS + Supabase stack<br><br>👯 I'm looking to collaborate on **hackathon projects** (especially Next.js/TypeScript teams) and **open source initiatives**<br><br>🤝 I'm looking for help with **scaling Hand-of-Odin** and exploring advanced AI agent workflows<br><br>🌱 I'm currently learning **Next.js App Router, Drizzle ORM, offensive/defensive cybersecurity**, and working through OverTheWire Bandit for CTF skills<br><br>💬 Ask me about **web development, 3D printing, Flutter, or building AI-powered CLI tools**<br><br>⚡ Fun fact: **I'm a 2nd-year IST student planning to pursue cybersecurity in Norway, and I've built everything from camp animations to custom AI assistants!**
+<div align="center">
 
+# 👋 Hey, I'm Timotej Tipary
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/timo_t_q) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timotej tipary) 
+### 🛡️ Future Cybersecurity Specialist | 💻 Full-Stack Developer | 🤖 AI Tool Builder
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=timo-t-q&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=timo-t-q&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=timo-t-q&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Hand-of-Odin+AI+CLI;Next.js+%2B+TypeScript+Developer;Cybersecurity+Enthusiast;Hackathon+Ready+🚀" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=timo-t-q&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=timo-t-q&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=timo-t-q&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Building
+
+```typescript
+const currentProjects = {
+  primary: "Hand-of-Odin",
+  description: "Node.js CLI AI coding assistant optimized for Next.js",
+  status: "Phases 1-6 Complete | 7-10 In Progress",
+  features: [
+    "GitHub Models API Integration",
+    "Smart file operations (read/write)",
+    "Shell command execution",
+    "GitHub OAuth Device Flow",
+    "Custom skill system (coming soon)",
+  ],
+  vision: "Best OpenCode alternative with everything-claude-code features"
+};
+```
+
+### 🎯 Active Focus Areas
+- 🏗️ **Hand-of-Odin**: Building the ultimate Next.js AI coding assistant
+- 🏆 **Hackathon Prep**: Mastering Next.js + TypeScript + Tailwind + Supabase stack
+- 🔐 **Cybersecurity**: Learning offensive/defensive techniques via OverTheWire Bandit
+- 📱 **NetStudy**: Flutter app for my school's maturita exam prep (IST program)
+
+---
+
+## 💼 Tech Arsenal
+
+### 🎨 Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Languages & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🎨 Design & 3D
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timo-t-q&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=timo-t-q&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=timo-t-q&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=timo-t-q&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🎯 Current Goals & Roadmap
+
+```mermaid
+graph LR
+    A[🎓 2nd Year IST] --> B[🛡️ BSc IT & Cyber - AAU Esbjerg]
+    B --> C[🔐 MSc Cyber Security - AAU Aalborg]
+    C --> D[🇳🇴 Cybersecurity Career in Norway]
+    D --> E[📚 Optional PhD - NTNU/AAU]
+```
+
+### 📅 2024-2026 Milestones
+- ✅ Complete Hand-of-Odin Phases 1-6
+- 🔄 Master Next.js + TypeScript + Supabase stack
+- 🎯 Compete in Bratislava & online hackathons
+- 🚀 Launch Hand-of-Odin on Gumroad
+- 📱 Publish NetStudy app to Google Play
+- 🔐 Progress through OverTheWire wargames
+
+---
+
+## 💡 What I'm Learning Right Now
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
+- Offensive & Defensive techniques
+- CTF challenges (OverTheWire Bandit)
+- Penetration testing fundamentals
+- Network security (Cisco/Packet Tracer)
+
+</td>
+<td width="50%">
+
+### 💻 Development
+- Next.js App Router architecture
+- Drizzle ORM with Supabase
+- AI agent workflows & sub-agents
+- CLI tool development with Node.js
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm actively looking for:
+- 👥 **Hackathon teammates** (Next.js/TypeScript focus)
+- 🌟 **Open source contributors** for Hand-of-Odin
+- 💼 **Mentorship** in AI workflows and cybersecurity
+- 🎯 **Project ideas** combining AI, security, or web dev
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timotej-tipary)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/timo_t_q)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timo-t-q)
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- 🎪 Former **camp animator** with experience teaching kids
+- 🖨️ **3D printing instructor** - from modeling to print
+- 🇸🇰 Based in **Bratislava, Slovakia** (Petržalka)
+- 🇳🇴 Planning to relocate to **Norway** for cybersecurity career
+- 🎓 **AAU Denmark** is my target university (Esbjerg → Aalborg)
+- 🤖 Building AI tools while learning to hack them securely
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Wisdom
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=timo-t-q&color=F75C7E&style=for-the-badge)
+
+**"First, solve the problem. Then, write the code."** - John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **From [timo-t-q](https://github.com/timo-t-q)** with 💻 and ☕
+
+</div>
