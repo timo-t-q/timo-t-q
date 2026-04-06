@@ -74,11 +74,11 @@ const currentProjects = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timo-t-q&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timo-t-q&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&cache_seconds=1800&date=20260406)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=timo-t-q&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)
+![GitHub Streak](https://streak-stats.demolab.com/?user=timo-t-q&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&date=20260406)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=timo-t-q&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=timo-t-q&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&cache_seconds=1800&date=20260406)
 
 </div>
 
