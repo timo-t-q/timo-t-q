@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=200&section=header&text=Timotej%20Tipary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Network%20Architect%20%E2%80%A2%20Full%20Stack%20Developer&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=200&section=header&text=Timo%20Tipary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Network%20Architect%20%E2%80%A2%20Full%20Stack%20Developer&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&width=750&lines=Building+secure+systems+from+the+ground+up.;Networking+%7C+Cybersecurity+%7C+Full+Stack;CCNA+Certified+%7C+CTF+Enthusiast;From+Bratislava+%E2%86%92+Oslo;Future+BSc+Computer+Science+%40+Aarhus+University.)](https://git.io/typing-svg)
 
@@ -11,14 +11,14 @@
 ![Location](https://img.shields.io/badge/Bratislava%2C%20Slovakia-Petržalka-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white)
 ![Target](https://img.shields.io/badge/Target-Aarhus%20University%20BSc%20CS%202027-4F46E5?style=flat-square&logo=academia&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-timotej--tipary.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://timotej-tipary.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timotej-tipary)
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timotej.tipary@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timotej-tipary)
+[![Portfolio](https://img.shields.io/badge/Portfolio-reallysoftware.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://reallysoftware.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timo-tipary-140888366)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timotipary@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timo-t-q)
 
-![Profile Views](https://komarev.com/ghpvc/?username=timotej-tipary&color=8B5CF6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/timotej-tipary?style=flat-square&color=6D28D9&label=Followers)
-![Stars](https://img.shields.io/github/stars/timotej-tipary?style=flat-square&color=7C3AED&label=Total+Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=timo-t-q&color=8B5CF6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/timo-t-q?style=flat-square&color=6D28D9&label=Followers)
+![Stars](https://img.shields.io/github/stars/timo-t-q?style=flat-square&color=7C3AED&label=Total+Stars)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ## 👤 About
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=timotej-tipary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9333EA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9&count_private=true"/>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=timo-t-q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9333EA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9&count_private=true"/>
 
 I'm a third-year **Information Systems and Technology** student at **SPŠE Halova, Bratislava**, building a career at the intersection of **cybersecurity**, **network engineering**, and **full-stack software development**.
 
@@ -91,7 +91,7 @@ An enterprise-grade AI command-line interface built in Node.js that brings large
 | **Key Features** | GitHub OAuth Device Flow · `/changemodel` command · file reader/writer · shell runner |
 | **Security** | Token-based auth · scoped permissions · config at `~/.hand-of-odin/config.json` |
 | **Scale** | 9 complete development phases · Gumroad commercial release on roadmap |
-| **Repository** | [`timotej-tipary/Hand-of-Odin`](https://github.com/timotej-tipary/Hand-of-Odin) |
+| **Repository** | [`timo-t-q/Hand-of-Odin`](https://github.com/timo-t-q/Hand-of-Odin) |
 
 The architecture follows a phase-based development model with clean separation between the core engine, skill plugins, and agent orchestration layer. Long-term vision: best open-source OpenCode alternative with a Gumroad commercial release.
 
@@ -112,7 +112,7 @@ A production-grade cross-platform study application built in Flutter, targeting 
 | **Architecture** | Stateful widget hierarchy · cloud-synced notes · module-based subject structure |
 | **Features** | Per-module notes · cross-session persistence · subject-specific question banks |
 | **Impact** | Production APK deployed · active SPŠE exam preparation tool |
-| **Repository** | [`timotej-tipary/NetStudy`](https://github.com/timotej-tipary/NetStudy) |
+| **Repository** | [`timo-t-q/NetStudy`](https://github.com/timo-t-q/NetStudy) |
 
 Chosen Flutter over React Native for its reliable APK build pipeline and superior cross-platform rendering consistency. Architecture supports future Google Play Store deployment.
 
@@ -133,7 +133,7 @@ End-to-end data engineering system for the HAGAP student racing team competing i
 | **Scope** | 9 project documents across 3 subprojects: HaloBoard, Volant, Data Acquisition |
 | **Deliverables** | Structured Excel planner · telemetry logging · post-race statistical analysis |
 | **Impact** | Full-race data fidelity · consistent reporting across all engineering subprojects |
-| **Repository** | [`timotej-tipary/greenpower-f24`](https://github.com/timotej-tipary/greenpower-f24) |
+| **Repository** | [`timo-t-q/greenpower-f24`](https://github.com/timo-t-q/greenpower-f24) |
 
 Architecture prioritizes reliability and reproducibility — critical constraints in a live racing environment where data integrity directly influences engineering decisions.
 
@@ -250,7 +250,7 @@ Contributed to a student engineering team designing and launching a satellite-an
 
 [![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit%20Active-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white)](https://overthewire.org/wargames/bandit/)
 [![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![GitHub](https://img.shields.io/badge/GitHub-40%2B%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timotej-tipary)
+[![GitHub](https://img.shields.io/badge/GitHub-40%2B%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timo-t-q)
 
 </div>
 
@@ -260,14 +260,14 @@ Contributed to a student engineering team designing and launching a satellite-an
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=timotej-tipary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9333EA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timotej-tipary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9333EA&text_color=E2E8F0&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=timo-t-q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9333EA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timo-t-q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9333EA&text_color=E2E8F0&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=timotej-tipary&theme=tokyonight&hide_border=true&background=0D0D1A&ring=9333EA&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=E2E8F0" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=timo-t-q&theme=tokyonight&hide_border=true&background=0D0D1A&ring=9333EA&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=E2E8F0" alt="GitHub Streak"/>
 
 </div>
 
@@ -277,7 +277,7 @@ Contributed to a student engineering team designing and launching a satellite-an
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=timotej-tipary&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=timo-t-q&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -287,7 +287,7 @@ Contributed to a student engineering team designing and launching a satellite-an
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=timotej-tipary&theme=react-dark&hide_border=true&bg_color=0D0D1A&color=9333EA&line=7C3AED&point=8B5CF6&area=true&area_color=6D28D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=timo-t-q&theme=react-dark&hide_border=true&bg_color=0D0D1A&color=9333EA&line=7C3AED&point=8B5CF6&area=true&area_color=6D28D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -297,7 +297,7 @@ Contributed to a student engineering team designing and launching a satellite-an
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/timotej-tipary/timotej-tipary/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/timo-t-q/timo-t-q/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -337,10 +337,10 @@ Current Focus — 2026:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-timotej.tipary%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timotej.tipary@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timotej%20Tipary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timotej-tipary)
-[![GitHub](https://img.shields.io/badge/GitHub-timotej--tipary-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timotej-tipary)
-[![Portfolio](https://img.shields.io/badge/Portfolio-timotej--tipary.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://timotej-tipary.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-timotipary%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timotipary@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timo%20Tipary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timo-tipary-140888366)
+[![GitHub](https://img.shields.io/badge/GitHub-timo-t-q-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timo-t-q)
+[![Portfolio](https://img.shields.io/badge/Portfolio-reallysoftware.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://reallysoftware.xyz)
 
 </div>
 
