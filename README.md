@@ -1,175 +1,355 @@
 <div align="center">
-# 👋 Hey, I'm Timo
- 
-### 🛡️ Future Cybersecurity Specialist · 💻 Full-Stack Developer · 🤖 AI Enthusiast
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Next.js+%2B+TypeScript+Developer;Cybersecurity+Enthusiast;Flutter+Mobile+Dev;Hackathon+Ready+🚀;Future+AAU+%26+Norway+Bound+🇳🇴" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=200&section=header&text=Timotej%20Tipary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Network%20Architect%20%E2%80%A2%20Full%20Stack%20Developer&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&width=750&lines=Building+secure+systems+from+the+ground+up.;Networking+%7C+Cybersecurity+%7C+Full+Stack;CCNA+Certified+%7C+CTF+Enthusiast;From+Bratislava+%E2%86%92+Oslo;Future+BSc+Computer+Science+%40+Aarhus+University.)](https://git.io/typing-svg)
+
+---
+
+![Student](https://img.shields.io/badge/IST%20Student-SPŠE%20Halova%2C%20Bratislava-8B5CF6?style=flat-square&logo=graduation-cap&logoColor=white)
+![Year](https://img.shields.io/badge/Year%203%20of%204-IST%20Program-6D28D9?style=flat-square&logo=bookstack&logoColor=white)
+![Location](https://img.shields.io/badge/Bratislava%2C%20Slovakia-Petržalka-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white)
+![Target](https://img.shields.io/badge/Target-Aarhus%20University%20BSc%20CS%202027-4F46E5?style=flat-square&logo=academia&logoColor=white)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-timotej--tipary.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://timotej-tipary.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timotej-tipary)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timotej.tipary@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timotej-tipary)
+
+![Profile Views](https://komarev.com/ghpvc/?username=timotej-tipary&color=8B5CF6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/timotej-tipary?style=flat-square&color=6D28D9&label=Followers)
+![Stars](https://img.shields.io/github/stars/timotej-tipary?style=flat-square&color=7C3AED&label=Total+Stars)
+
 </div>
+
 ---
- 
-## 🚀 What I'm Working On
- 
-```typescript
-const timo = {
-  stack: ["Next.js", "TypeScript", "Tailwind", "Supabase", "Flutter"],
-  cybersecurity: ["OverTheWire Bandit", "CTF challenges", "Cisco / Packet Tracer"],
-  currentProjects: [
-    "NetStudy – Flutter maturita prep app for SPŠE IST students",
-    "Real-time chat platform (Next.js 14 + Supabase + Vercel)",
-    "CanSat – parachute design & descent engineering",
-  ],
-  goal: "Hackathon-ready full-stack + cybersecurity skill set",
-  nextStep: "BSc IT & Cyber Systems @ AAU Esbjerg 🇩🇰",
-};
-```
- 
-### 🎯 Active Focus Areas
-- 🔐 **Cybersecurity** — CTF challenges, OverTheWire Bandit, Cisco labs
-- 🏆 **Hackathon Prep** — Next.js · TypeScript · Tailwind · Supabase stack
-- 📱 **NetStudy** — Flutter app for SPŠE Halova IST students
-- 🛰️ **CanSat** — Parachute design, descent calculations, embedded systems
-- 🌐 **Real-time Chat Platform** — Auth, RLS, Supabase Realtime
+
+## 👤 About
+
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=timotej-tipary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9333EA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9&count_private=true"/>
+
+I'm a third-year **Information Systems and Technology** student at **SPŠE Halova, Bratislava**, building a career at the intersection of **cybersecurity**, **network engineering**, and **full-stack software development**.
+
+My engineering philosophy centers on **systems thinking** — understanding not just how individual components work, but how they interact, fail, and can be hardened. I approach every project with a security-first mindset and an infrastructure-aware perspective built through hands-on Cisco lab work, CTF challenges, and self-hosted homelab experimentation.
+
+Currently deepening expertise in **Cisco networking** (CCNA 1–3), **offensive security** via CTF platforms, and **cross-platform development** with Flutter and Node.js. I maintain a Proxmox homelab to apply enterprise patterns — VLANs, DHCP relay, HSRP, EtherChannel — in a controlled, reproducible environment.
+
+**Open To:** Cybersecurity internships · Open-source collaboration · CTF team partnerships · Research mentorship · BSc Computer Science at Aarhus University (2027 intake)
+
 ---
- 
-## 💼 Tech Arsenal
- 
-### 🎨 Frontend & Mobile
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
- 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
- 
-### 🛠️ Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
- 
-### 🎨 Design & 3D
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
- 
----
- 
-## 📊 GitHub Statistics
- 
+
+## 🧰 Tech Stack
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timo-t-q&theme=radical&hide_border=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,dart,php,cs,bash&theme=dark)](https://skillicons.dev)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=timo-t-q&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,flutter,react,tailwind&theme=dark)](https://skillicons.dev)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=timo-t-q&theme=radical&hide_border=true&count_private=true&layout=compact&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)
- 
+### Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql,express&theme=dark)](https://skillicons.dev)
+
+### Cloud, DevOps & Tooling
+[![DevOps](https://skillicons.dev/icons?i=linux,git,github,docker,vscode,unity&theme=dark)](https://skillicons.dev)
+
 </div>
+
 ---
- 
+
+## 🔐 Cybersecurity & Networking Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:--|:--|:--|
+| **Network Architecture** | `████████░░` Advanced | HSRP, VLANs, EtherChannel (LACP), DHCP relay, Router-on-a-Stick, SVIs |
+| **Cisco IOS** | `████████░░` Advanced | CCNA 1–3, Packet Tracer labs, port security, sticky MAC, dot1Q subinterfaces |
+| **CTF / Offensive Security** | `██████░░░░` Intermediate | OverTheWire Bandit, web challenges, enumeration, privilege escalation basics |
+| **Linux Security** | `██████░░░░` Intermediate | SSH hardening, file permissions, Bash scripting, process analysis |
+| **Homelab Infrastructure** | `███████░░░` Intermediate | Proxmox VE, VLAN segmentation, pfSense routing, network monitoring |
+| **Secure Development** | `██████░░░░` Intermediate | Input validation, GitHub OAuth Device Flow, API security, auth flows |
+| **OSINT & Reconnaissance** | `█████░░░░░` Developing | Passive information gathering, network scanning, footprinting basics |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><strong>⚡ Hand of Odin — AI-Powered CLI Assistant</strong></summary>
+<br/>
+
+An enterprise-grade AI command-line interface built in Node.js that brings large language model capabilities directly into the developer's terminal workflow. Architected as a production-quality alternative to existing AI coding tools, optimized specifically for **Next.js + TypeScript + Tailwind CSS + Supabase** stacks.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Node.js · GitHub Models API · Azure AI Inference · OAuth 2.0 |
+| **Architecture** | Modular skill system · built-in sub-agents · hook pipeline · persistent memory layer |
+| **Key Features** | GitHub OAuth Device Flow · `/changemodel` command · file reader/writer · shell runner |
+| **Security** | Token-based auth · scoped permissions · config at `~/.hand-of-odin/config.json` |
+| **Scale** | 9 complete development phases · Gumroad commercial release on roadmap |
+| **Repository** | [`timotej-tipary/Hand-of-Odin`](https://github.com/timotej-tipary/Hand-of-Odin) |
+
+The architecture follows a phase-based development model with clean separation between the core engine, skill plugins, and agent orchestration layer. Long-term vision: best open-source OpenCode alternative with a Gumroad commercial release.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📚 NetStudy — Flutter Cross-Platform Learning App</strong></summary>
+<br/>
+
+A production-grade cross-platform study application built in Flutter, targeting Android and iOS. Developed as a personal productivity tool for IST curriculum management, demonstrating enterprise mobile architecture patterns including Firestore persistence, Google Sign-In, and modular subject management.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Flutter · Dart · Firebase Firestore · Google Sign-In |
+| **Platform** | Android (primary) · iOS compatible |
+| **Architecture** | Stateful widget hierarchy · cloud-synced notes · module-based subject structure |
+| **Features** | Per-module notes · cross-session persistence · subject-specific question banks |
+| **Impact** | Production APK deployed · active SPŠE exam preparation tool |
+| **Repository** | [`timotej-tipary/NetStudy`](https://github.com/timotej-tipary/NetStudy) |
+
+Chosen Flutter over React Native for its reliable APK build pipeline and superior cross-platform rendering consistency. Architecture supports future Google Play Store deployment.
+
+</details>
+
+---
+
+<details>
+<summary><strong>🏎️ Greenpower F24 — Race Car Data Acquisition System</strong></summary>
+<br/>
+
+End-to-end data engineering system for the HAGAP student racing team competing in the Greenpower F24 electric racing championship. Responsible for designing and maintaining the data collection, telemetry processing, and reporting infrastructure across three concurrent subprojects.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Python · Excel · Sensor Integration · Data Pipelines |
+| **Team** | HAGAP Team — SPŠE Bratislava (supervisor: Martin Supek) |
+| **Scope** | 9 project documents across 3 subprojects: HaloBoard, Volant, Data Acquisition |
+| **Deliverables** | Structured Excel planner · telemetry logging · post-race statistical analysis |
+| **Impact** | Full-race data fidelity · consistent reporting across all engineering subprojects |
+| **Repository** | [`timotej-tipary/greenpower-f24`](https://github.com/timotej-tipary/greenpower-f24) |
+
+Architecture prioritizes reliability and reproducibility — critical constraints in a live racing environment where data integrity directly influences engineering decisions.
+
+</details>
+
+---
+
+<details>
+<summary><strong>🏠 Proxmox Homelab — Enterprise Network Lab</strong></summary>
+<br/>
+
+A self-hosted enterprise-grade homelab environment built on Proxmox VE, replicating production network topologies for continuous learning and CCNA skill validation. Designed to mirror real-world infrastructure patterns across redundancy, segmentation, and access control domains.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Proxmox VE · pfSense · Cisco IOS · Linux VMs |
+| **Networking** | VLAN segmentation · inter-VLAN routing · DHCP server/relay · trunk ports |
+| **Redundancy** | HSRP active/standby per VLAN · EtherChannel (LACP) · failover validation |
+| **Security** | Port security · sticky MAC binding · ACLs · isolated VLAN security zones |
+| **Impact** | Continuous CCNA lab environment · theory-to-practice validation pipeline |
+| **Repository** | Private — available on request |
+
+Every topology from CCNA coursework is replicated and validated in this environment before academic submission, ensuring theoretical knowledge translates directly to configuration fluency.
+
+</details>
+
+---
+
+## 💼 Experience
+
+### Camp Animator · Youth Summer Camp
+`June 2024 – August 2024`
+
+Led structured activity programming for youth groups across multi-day residential camp sessions. Delivered programs requiring real-time adaptability, group coordination, and clear technical communication under dynamic conditions.
+
+- Designed and facilitated STEM-themed activity tracks for groups of 20–40 participants
+- Coordinated logistics and scheduling across concurrent program streams
+- Mentored junior animators on facilitation technique and safety protocol adherence
+- Received above-average participant satisfaction ratings across all assigned sessions
+
+`Leadership` `Communication` `Program Design` `Youth Development` `Team Coordination`
+
+---
+
+### 3D Printing Instructor · SPŠE Halova, Bratislava
+`September 2024 – Present`
+
+Provide hands-on instruction and technical guidance on FDM 3D printing workflows, machine calibration, and slicing software configuration for peers and faculty-led engineering projects.
+
+- Configured and maintained Bambu Lab A1 Mini with custom filament profiles (Alzament PLA, temperature-calibrated flow and K-value parameters)
+- Developed beginner curriculum covering Fusion 360 parametric modeling through print-ready STL preparation
+- Supported multi-component assembly projects including the official 2026 RoCoCo Robotics Competition trophy
+- Diagnosed and resolved hardware and slicing-related print failures across multiple filament and machine profiles
+
+`Bambu Lab` `Fusion 360` `FDM 3D Printing` `Technical Instruction` `Curriculum Design`
+
+---
+
+### CanSat Team Member · ESA CanSat Program
+`2024 – 2025`
+
+Contributed to a student engineering team designing and launching a satellite-analogue in a soda can form factor, competing in the ESA-aligned national CanSat program.
+
+- Engineered sensor data acquisition subsystems for atmospheric telemetry capture during descent phase
+- Collaborated on mission design, systems integration, and post-flight telemetry analysis
+- Achieved **3rd place** nationally in the CanSat competition
+- Targeting a return campaign for 1st place in the 2025–2026 competitive season
+
+`Systems Integration` `Telemetry Engineering` `Data Acquisition` `Mission Design` `Team Collaboration`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Recognition | Details |
+|:--|:--|
+| 🥉 **CanSat National 3rd Place** | ESA-aligned national satellite engineering competition — SPŠE team representative |
+| 📊 **IT Fitness Test — 95th Percentile** | National digital literacy assessment — top 5% score nationwide |
+| 🤖 **RoCoCo Trophy Designer 2026** | Official trophy design for Interreg Slovakia-Austria robotics championship |
+| 🏢 **Junior Achievement Certificate** | Entrepreneurship and business fundamentals program completion |
+| 🔒 **OverTheWire Bandit Progression** | Active CTF wargame participant — systematic offensive security skill development |
+| 🌐 **40+ GitHub Repositories** | Active contributor across networking, mobile, CLI, and web engineering domains |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+### Cisco
+![CCNA1](https://img.shields.io/badge/CCNA%201-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA2](https://img.shields.io/badge/CCNA%202-Switching%2C%20Routing%20%26%20Wireless-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA3](https://img.shields.io/badge/CCNA%203-Enterprise%20Networking%20%26%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### Academic
+![ITFitness](https://img.shields.io/badge/IT%20Fitness%20Test-95th%20Percentile-8B5CF6?style=for-the-badge&logo=checkmarx&logoColor=white)
+![JA](https://img.shields.io/badge/Junior%20Achievement-Entrepreneurship%20Certificate-6D28D9?style=for-the-badge&logo=buffer&logoColor=white)
+
+### In Progress
+![NetworkPlus](https://img.shields.io/badge/CompTIA%20Network%2B-Summer%202026-F59E0B?style=for-the-badge&logo=comptia&logoColor=white)
+![IELTS](https://img.shields.io/badge/IELTS%20Academic-Target%206.5–7.0%20%7C%20Nov%202026-4F46E5?style=for-the-badge&logo=academia&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit%20Active-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white)](https://overthewire.org/wargames/bandit/)
+[![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![GitHub](https://img.shields.io/badge/GitHub-40%2B%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timotej-tipary)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=timotej-tipary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9333EA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timotej-tipary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9333EA&text_color=E2E8F0&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=timotej-tipary&theme=tokyonight&hide_border=true&background=0D0D1A&ring=9333EA&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=E2E8F0" alt="GitHub Streak"/>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
- 
+
 <div align="center">
-![Trophies](https://github-profile-trophy.vercel.app/?username=timo-t-q&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
- 
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=timotej-tipary&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
 ---
- 
-## 🎯 Current Goals & Roadmap
- 
-```mermaid
-graph LR
-    A[🎓 2nd Year IST @ SPŠE] --> B[🛡️ BSc IT & Cyber - AAU Esbjerg]
-    B --> C[🔐 MSc Cyber Security - AAU Aalborg]
-    C --> D[🇳🇴 Cybersecurity Career in Norway]
-    D --> E[📚 Optional PhD - NTNU / AAU]
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=timotej-tipary&theme=react-dark&hide_border=true&bg_color=0D0D1A&color=9333EA&line=7C3AED&point=8B5CF6&area=true&area_color=6D28D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/timotej-tipary/timotej-tipary/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Current Focus — 2026:
+
+  Learning:
+    - Cisco CCNA 3 — Enterprise networking, OSPF, SD-WAN fundamentals
+    - CompTIA Network+ — Vendor-neutral certification (Summer 2026)
+    - IELTS Academic — Target 6.5–7.0 via British Council Bratislava (Nov 2026)
+    - OverTheWire Bandit — Systematic CTF wargame progression
+
+  Building:
+    - Hand-of-Odin v2 — Hooks, memory persistence, multi-agent orchestration
+    - NetStudy — Google Sign-In, Firestore-backed notes, Google Play pipeline
+    - Proxmox homelab — Expanded VLAN topology, monitoring and alerting stack
+
+  Exploring:
+    - Offensive security — Privilege escalation, web vulnerabilities, enumeration
+    - Rust — Systems programming for future low-level security tooling
+    - Aarhus University BSc CS — Application preparation, targeting August 2027 intake
+
+  Open To:
+    - Cybersecurity internships (remote or Bratislava-based)
+    - CTF team partnerships and open-source collaboration
+    - Research mentorship in network security or systems engineering
+    - Pre-admission contact with Aarhus University Computer Science faculty
 ```
- 
-### 📅 2024–2026 Milestones
-- ✅ Build real-time chat platform with Next.js 14 + Supabase
-- 🔄 Master Next.js + TypeScript + Supabase stack
-- 🎯 Compete in Bratislava & online hackathons
-- 📱 Publish NetStudy app to Google Play
-- 🔐 Progress through OverTheWire wargames
-- 🛰️ Complete CanSat project successfully
-- 🎓 Graduate SPŠE & apply to AAU Esbjerg
+
 ---
- 
-## 💡 What I'm Learning Right Now
- 
-<table>
-<tr>
-<td width="50%">
-### 🔐 Cybersecurity
-- Offensive & Defensive techniques
-- CTF challenges (OverTheWire Bandit)
-- Penetration testing fundamentals
-- Network security (Cisco / Packet Tracer)
-</td>
-<td width="50%">
-### 💻 Development
-- Next.js 14 App Router architecture
-- Supabase Realtime & RLS
-- Flutter mobile development
-- Embedded systems (CanSat)
-</td>
-</tr>
-</table>
----
- 
-## 🤝 Let's Collaborate!
- 
-I'm actively looking for:
-- 👥 **Hackathon teammates** (Next.js / TypeScript focus)
-- 🌟 **Open source contributors** for my projects
-- 💼 **Mentorship** in cybersecurity & AI workflows
-- 🎯 **Project ideas** combining AI, security, or web dev
----
- 
-## 📫 Connect With Me
- 
+
+## 🤝 Connect
+
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timotej-tipary)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/timo_t_q)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timo-t-q)
- 
+
+[![Gmail](https://img.shields.io/badge/Gmail-timotej.tipary%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timotej.tipary@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timotej%20Tipary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timotej-tipary)
+[![GitHub](https://img.shields.io/badge/GitHub-timotej--tipary-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timotej-tipary)
+[![Portfolio](https://img.shields.io/badge/Portfolio-timotej--tipary.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://timotej-tipary.github.io)
+
 </div>
+
 ---
- 
-## ⚡ Fun Facts
- 
-- 🎪 Former **camp animator** with experience teaching kids
-- 🖨️ **3D printing instructor** — from modeling to final print
-- 🇸🇰 Based in **Bratislava, Slovakia** (Petržalka)
-- 🇳🇴 Planning to relocate to **Norway** for a cybersecurity career
-- 🎓 **AAU Denmark** is my target university (Esbjerg → Aalborg)
-- 🛰️ Currently building a **CanSat** that survives a rocket ejection
----
- 
+
 <div align="center">
-### 💭 Random Dev Wisdom
- 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- 
----
- 
-![Profile Views](https://komarev.com/ghpvc/?username=timo-t-q&color=F75C7E&style=for-the-badge)
- 
-**"First, solve the problem. Then, write the code."** — John Johnson
- 
----
- 
-⭐ **From [timo-t-q](https://github.com/timo-t-q)** with 💻 and ☕
- 
+
+*"Security is not a product, but a process — and process begins with understanding the system."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=120&section=footer" width="100%"/>
+
 </div>
